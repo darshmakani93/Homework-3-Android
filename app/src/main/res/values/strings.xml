@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <!--category menu added-->
+    <string-array name="categories_array">
+        <item>android</item>
+        <item>java</item>
+        <item>Python</item>
+        <item>c</item>
+    </string-array>
+    <string name="category_menu">Category</string>
+    <string name="category_0">All</string>
+    <string name="category_1">android</string>
+    <string name="category_2">java</string>
+    <string name="category_3">Python</string>
+    <string name="category_4">c</string>
+</resources>
